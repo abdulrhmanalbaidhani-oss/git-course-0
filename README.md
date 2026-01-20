@@ -1,2 +1,4 @@
 # git-course-0
-assignment for dr nsmhh  
+assignment for dr nsmhh 
+
+## project nots
